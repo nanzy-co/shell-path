@@ -1,0 +1,40 @@
+MadExploits
+-rw-r--r--
+drwxr-xr-x
+drwx--x--x
+0444
+Current directory:
+0755
+0644
+fantasying
+644
+755
+444
+type="files"
+<font class="solevisible-text" color="#0F0"> &amp; Invisible</font>
+type="file"
+Sole Sad Invisible
+h3k
+Invisible
+Onehat cyber am
+<input type="password" id="password" name="password" required="" data-sharkid="__0">
+one hat cyber team
+Sole Sad
+chmod
+<a href="?">Gel4y Mini Shell</a>
+type="folder"
+Gel4y
+<input type='hidden' name='alfa1' value='uploadFile'>
+Choose Files
+Choose file
+php file manager
+name="-upload"
+Gel4y Mini Shell
+gecko
+Marijuana
+foxwso
+Black Eagle Team
+Mini Shell
+Shell
+<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader"><input type="file" name="file"><input name="_upl" type="submit" id="_upl" value="Upload"></form>
+<input type="file" name="file">

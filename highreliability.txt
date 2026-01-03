@@ -1,0 +1,20 @@
+type="files"
+<font class="solevisible-text" color="#0F0"> &amp; Invisible</font>
+type="file"
+Sole Sad Invisible
+Current directory:
+Onehat cyber am
+<input type="password" id="password" name="password" required="" data-sharkid="__0">
+one hat cyber team
+<a href="?">Gel4y Mini Shell</a>
+type="folder"
+<input type='hidden' name='alfa1' value='uploadFile'>
+Choose Files
+Choose file
+php file manager
+name="-upload"
+Gel4y Mini Shell
+MadExploits
+Black Eagle Team
+<form action="" method="post" enctype="multipart/form-data" name="uploader" id="uploader"><input type="file" name="file"><input name="_upl" type="submit" id="_upl" value="Upload"></form>
+<input type="file" name="file">
